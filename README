@@ -1,0 +1,10 @@
+Contains the web pages that are available via: dsebastien.github.com
+
+To update the content:
+- make changes
+- commit locally
+- git push origin master
+- wait ~10m
+
+
+Reference doc: http://pages.github.com/
